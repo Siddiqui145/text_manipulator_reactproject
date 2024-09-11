@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Include some screenshots of the app in both light and dark mode, demonstrating various text manipulations.
 
 
-[Screenshot 2024-09-11 225816](https://github.com/user-attachments/assets/a9559ddd-3cc3-4f41-9a57-d9d8622e7234)
+
 
 ![Screenshot 2024-09-11 225816](https://github.com/user-attachments/assets/bf7249ac-f490-4a1a-97b7-9c3ed72d8993)
 
