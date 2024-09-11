@@ -78,7 +78,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Screenshots
-Include some screenshots of the app in both light and dark mode, demonstrating various text manipulations.
+Including some screenshots of the app in both light and dark mode, demonstrating various text manipulations.
 
 
 
