@@ -42,13 +42,13 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/text-manipulation-tool.git
+git clone https://github.com/Siddiqui145/text_manipulator_reactproject.git
 
 Navigate to the project directory:
 
 bash
 Copy code
-cd text-manipulation-tool
+cd text-manipulator_reactproject
 Install dependencies:
 
 bash
